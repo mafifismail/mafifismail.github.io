@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bayesian mixing models
+title: gravitational wave astronomy
 bigimg:
   - "/img/big-img/mixing_models.jpg"
 ---
