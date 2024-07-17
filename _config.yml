@@ -25,6 +25,9 @@ description: physics
 navbar-links:
   Physics:
      - Gravitational wave astronomy: "gw"
+     - General Relativistic Magnetohydrodynamics: "grmhd"
+     - General Relativistic Radiative Transfer: "grrt"
+     - Field propagation in curved spacetime: "field"
 #     - State-space stock assessment: "statespace"    
 #     - Length-based assessment: "lengthassess"
 #     - Recruitment processes: "recruitment"
